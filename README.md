@@ -1,7 +1,3 @@
-CSUF CPSC 131, Fall 2016
-Project 4
-"Graph data structure" (using the data structures learned in CPSC 131)
+A shotest path calculator using the graph data structure.
 
-Group members:
-
-David Feinzimer dfeinzimer@csu.fullerton.edu
+David Feinzimer, 2016
